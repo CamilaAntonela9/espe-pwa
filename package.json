@@ -1,0 +1,21 @@
+{
+  "name": "pwa-boilerplate-mdl",
+  "version": "1.0.0",
+  "main": "sw.js",
+  "scripts": {
+    "dev": "live-server --port=3000 --watch=./",
+    "serve": "http-server -c-1",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.32.0",
+    "eslint-config-prettier": "^10.1.8",
+    "live-server": "^1.2.2",
+    "prettier": "^3.6.2"
+  }
+}
