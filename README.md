@@ -7,6 +7,12 @@
 Plantilla de inicio para desarrollar Progressive Web Apps (PWAs) modernas usando Material Design Lite (MDL), preparada con un entorno de desarrollo profesional.
 
 ---
+## Intro
+Si alguna vez has querido empezar rápido con una Progressive Web App sin perder tiempo configurando cosas básicas, esta plantilla es justo lo que necesitas.
+
+Aquí vas a encontrar todo lo esencial para arrancar tu proyecto con buen pie: una estructura ordenada, un servidor de desarrollo que actualiza tu navegador al instante, y herramientas que te ayudarán a mantener tu código limpio y sin errores.
+
+Además, ya viene lista para que tu app funcione offline y se pueda instalar en cualquier dispositivo, gracias al Service Worker y al manifest configurado.
 
 ## Objetivos
 
@@ -45,11 +51,11 @@ Plantilla de inicio para desarrollar Progressive Web Apps (PWAs) modernas usando
 
 | Ventaja                         | Descripción |
 |----------------------------------|-------------|
-| 🔄 **Recarga en vivo**           | Permite ver los cambios en tiempo real, sin recargar manualmente. |
-| ✨ **Código limpio y coherente** | ESLint y Prettier aseguran calidad y formato constante. |
-| 🛠️ **Ahorro de tiempo**         | Plantilla lista para usar con configuraciones básicas de PWA. |
-| 🔁 **Desarrollo y producción diferenciados** | Scripts optimizados para evitar errores comunes de caché. |
-| 📦 **Modularidad**              | Estructura organizada que facilita escalar el proyecto. |
+|  **Recarga en vivo**           | Permite ver los cambios en tiempo real, sin recargar manualmente. |
+|  **Código limpio y coherente** | ESLint y Prettier aseguran calidad y formato constante. |
+|  **Ahorro de tiempo**         | Plantilla lista para usar con configuraciones básicas de PWA. |
+|  **Desarrollo y producción diferenciados** | Scripts optimizados para evitar errores comunes de caché. |
+|  **Modularidad**              | Estructura organizada que facilita escalar el proyecto. |
 
 ---
 
