@@ -1,0 +1,88 @@
+/* ===== Colores Base ESPE ===== */
+:root {
+    --verde-militar: #4B610B;
+    --rojo-espe: #B22222;
+    --blanco-espe: #FFFFFF;
+  }
+  
+  .header-espe {
+    background-color: var(--verde-militar) !important;
+    color: var(--blanco-espe) !important;
+  }
+  
+  .header-espe .mdl-layout-title {
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  .drawer-espe {
+    background-color: var(--blanco-espe);
+  }
+  
+  .drawer-espe .mdl-navigation__link {
+    color: var(--verde-militar);
+    font-weight: 500;
+  }
+  
+  .drawer-espe .mdl-navigation__link:hover {
+    background-color: rgba(75, 83, 32, 0.1);
+  }
+  
+  /* ===== Botones ===== */
+  .btn-espe {
+    background-color: var(--rojo-espe) !important;
+    color: var(--blanco-espe) !important;
+    font-weight: bold;
+  }
+  
+  .btn-espe:hover {
+    background-color: #922020 !important;
+  }
+  
+  /* ===== Intro Section ===== */
+  .intro-section {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(to right, var(--verde-militar), #5d6630);
+    color: var(--blanco-espe);
+  }
+  
+  .intro-section h2 {
+    margin-bottom: 1rem;
+  }
+  
+  /* ===== Cards ===== */
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .card-espe {
+    background-color: var(--blanco-espe);
+    border-left: 6px solid var(--verde-militar);
+  }
+  
+  .card-espe .mdl-card__title {
+    background-color: var(--verde-militar);
+    color: var(--blanco-espe);
+  }
+  
+  .card-espe .mdl-card__actions {
+    border-top: 1px solid #ddd;
+  }
+  
+  /* ===== Formularios ===== */
+  .full-width {
+    width: 100%;
+  }
+  
+  .section-espe {
+    padding: 2rem;
+  }
+  
+  .section-espe h2 {
+    color: var(--verde-militar);
+    margin-bottom: 1rem;
+  }
+  

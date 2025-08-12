@@ -1,17 +1,23 @@
-# Node modules
+# Dependencias de Node.js
 node_modules/
 
-# Logs
-*.log
-
-# Build output
-dist/
-
-# Environment variables
-.env
-
-# MacOS system files
+# Archivos del sistema
 .DS_Store
+Thumbs.db
 
-# VS Code settings folder
-.vscode/
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Carpeta de compilación / build
+dist/
+build/
+
+# Cache de herramientas
+.cache/

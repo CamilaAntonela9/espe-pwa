@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Plantilla de inicio para desarrollar Progressive Web Apps (PWAs) modernas usando Material Design Lite (MDL), preparada con un entorno de desarrollo profesional.",
   "devDependencies": {
     "eslint": "^9.32.0",
     "eslint-config-prettier": "^10.1.8",
